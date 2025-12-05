@@ -33,7 +33,7 @@ o	Store code and output datasets on GitHub for version control and sharing.
 2.	Parse HTML – Use BeautifulSoup to read and parse HTML content.
 3.	Extract Data – Identify HTML tags for product details and extract information.
 4.	Store Data – Save data in a structured format using Pandas.
-5.	Export – Output the results to an Excel file <a> .
+5.	Export – Output the results to an Excel file <a href="https://github.com/Ravinderkaur9914/flipkart-data-scrape/blob/main/Flipkart_Laptops.xlsx"> xlsx </a>.
 ________________________________________
 
 
